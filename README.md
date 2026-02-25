@@ -18,13 +18,13 @@ This project demonstrates the integration between:
 * XAMPP
 * phpMyAdmin
 
-🗄️ Database
+## 🗄️ Database
 The database is managed through phpMyAdmin, included in XAMPP.
 You can see it in: back_office/site_adofan.sql
 
-# 📸 Screenshots
-## Homepage
+## 📸 Screenshots
+### Homepage
 ![Homepage](screenshots/homepage.png)
 
-## Backoffice
+### Backoffice
 ![Backoffice](screenshots/backoffice.png)

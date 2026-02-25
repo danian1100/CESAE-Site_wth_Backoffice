@@ -28,3 +28,8 @@ You can see it in: back_office/site_adofan.sql
 
 ### Backoffice
 ![Backoffice](screenshots/backoffice.png)
+
+testing if video works:
+<video width="600" controls>
+  <source src="screenshots/sitevideo.mp4" type="video/mp4">
+</video>
